@@ -62,6 +62,6 @@ End-to-end framework for evaluating RAG pipeline quality — faithfulness, relev
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/manasasamaga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-manasa--samaga-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/manasa-samaga](https://www.linkedin.com/in/manasasamaga))
 [![GitHub](https://img.shields.io/badge/GitHub-manasasamaga17-333?style=flat&logo=github)](https://github.com/manasasamaga17)
 [![Email](https://img.shields.io/badge/Email-manasasamaga17%40gmail.com-red?style=flat&logo=gmail)](mailto:manasasamaga17@gmail.com)
