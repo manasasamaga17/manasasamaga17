@@ -1,5 +1,5 @@
 
-# Hi, I'm Manasa Samaga 👋
+# Hello, I'm Manasa Samaga 👋
 
 **Senior SDET · AI Quality Engineer · Builder** | Bengaluru, India
 
