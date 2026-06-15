@@ -56,7 +56,7 @@ End-to-end framework for evaluating RAG pipeline quality — faithfulness, relev
 - B.Tech Computer Science, REVA University (CGPA 9.71)
 - AI Certification, Purdue University
 - 4+ years at **CRED** (fintech) — mobile, web, and AI quality engineering
-- YC Startup School alumni
+
 
 ---
 
