@@ -42,22 +42,17 @@ End-to-end framework for evaluating RAG pipeline quality — faithfulness, relev
 `Python` `Streamlit` `GitHub Actions` `Docker`
 
 ---
-
 ## 🔭 Currently
 
 - Targeting **AI Evaluation Engineer** and senior SDET roles at AI-first companies
 - Building **Bloom** — an AI-powered women's health app (Claude API + CNN ultrasound classifier)
 - Building **MirrorRoom.ai** — a professional networking platform for the fashion industry
-
 ---
-
 ## 🎓 Background
 
 - B.Tech Computer Science, REVA University (CGPA 9.71)
 - AI Certification, Purdue University
 - 4+ years at **CRED** (fintech) — mobile, web, and AI quality engineering
-
-
 ---
 
 ## 📬 Let's Connect
