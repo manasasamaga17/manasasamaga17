@@ -1,7 +1,7 @@
 
 # Hello, I'm Manasa Samaga 👋
 
-**Senior SDET · AI Quality Engineer · AI Evaluation · AI safety · Builder** | Bengaluru, India
+**AI Engineer · Builder** | Bengaluru, India
 
 I build AI-powered quality systems — LLM evaluations, RAG pipelines, adversarial red-teaming, and autonomous UI agents. Currently focused on making AI systems measurably safer and more reliable. Also exploring the founder path with projects in women's health AI and fashion tech.
 
